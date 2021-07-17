@@ -1,5 +1,5 @@
 ## Bot Folders
-![preview](https://user-images.githubusercontent.com/75003671/120157017-26796300-c225-11eb-8f84-7428165ca672.gif)
+![preview](https://cdn.discordapp.com/attachments/861244190461919246/865892847974612992/unknown.png)
 ## Bot Help Commands,using script file
 
 ![preview](https://cdn.discordapp.com/attachments/861244190461919246/865892938831757312/unknown.png)
